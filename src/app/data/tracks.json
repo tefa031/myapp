@@ -1,0 +1,42 @@
+{
+    "data":[{
+
+        "id":1,
+        "name":"Getting Over",
+        "albun": "Master of Puppets",
+        "cover": "https://jenesaispop.com/page/42/?s=metallica",
+
+        "artist": {
+            "name": "David Guetta",
+            "nickname": "David Guetta",
+            "nationality": "FR"
+        },
+
+        "duration":{
+            "start": 0,
+            "end":333
+        },
+
+        "url":"http://localhost:3000/track.mp3",
+
+
+        "id1":1,
+        "name1":"Getting Over",
+        "album": "Master of Puppets",
+        "cover1": "https://jenesaispop.com/page/42/?s=metallica",
+
+            "artist1":{
+                "name":"James Hetfield",
+                "nickname":"James Hetfield",
+                "natiotality":"EEUU"
+            },
+            "duration1":{
+                "start":0,
+                "end":333
+            },
+            "url1":"htpps://Localhost:300/track.mp3"
+    }
+
+   ]
+}
+
